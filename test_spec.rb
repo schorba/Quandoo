@@ -1,3 +1,4 @@
+require '42'
 require 'selenium-webdriver'
 require 'nokogiri'
 require 'pry'
